@@ -1,4 +1,4 @@
-# batalha-naval
+# Batalha-Naval
 My first programm - Naval Battle Game
 
 This was my frist programm, i've done it with a friend on my first semester at college.
