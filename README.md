@@ -1,7 +1,7 @@
 # Batalha-Naval
 My first programm - Naval Battle Game
 
-This was my frist programm, i've done it with a friend on my first semester at college.
+This was my frist game that i've programmed, i've done it with a friend on my first semester at college.
 The goal of this programm is to be like the naval battle game.
 
 The game begins asking the players which size of board they want.
